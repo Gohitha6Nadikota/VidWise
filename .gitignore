@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+
+venv/
+
+env/
+
+*.dist-info/
+
+dist/
+whisper-server/venv/
